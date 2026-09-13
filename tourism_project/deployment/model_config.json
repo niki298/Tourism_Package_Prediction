@@ -1,0 +1,24 @@
+{
+  "classification_threshold": 0.5,
+  "feature_columns": [
+    "Age",
+    "TypeofContact",
+    "CityTier",
+    "DurationOfPitch",
+    "Occupation",
+    "Gender",
+    "NumberOfPersonVisiting",
+    "NumberOfFollowups",
+    "ProductPitched",
+    "PreferredPropertyStar",
+    "MaritalStatus",
+    "NumberOfTrips",
+    "Passport",
+    "PitchSatisfactionScore",
+    "OwnCar",
+    "NumberOfChildrenVisiting",
+    "Designation",
+    "MonthlyIncome"
+  ],
+  "prediction_stage": "After customer interaction details are available"
+}
